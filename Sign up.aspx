@@ -24,6 +24,7 @@
         </div>
         <div id="content" title="Username">
             <h1>Student Registration</h1>
+            <h2>Sign Up Form</h2>
             <br />
             <table align="center">
                 <tr>

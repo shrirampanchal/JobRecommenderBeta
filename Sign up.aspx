@@ -23,7 +23,7 @@
             JOB RECOMMENDER SYSTEM
         </div>
         <div id="content" title="Username">
-            
+            <h1>Student Registration</h1>
             <br />
             <table align="center">
                 <tr>
